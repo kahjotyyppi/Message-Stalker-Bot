@@ -1,0 +1,29 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.4.1",
+    "discord-anti-spam": "^1.1.2",
+    "discord.js": "^11.4.2",
+    "discord.js-music-bot-bluspring": "^0.4.1",
+    "discord.js-music-v11": "^1.3.4",
+    "discord.js-musicbot-addon": "^12.0.6",
+    "enmap": "^4.3.3",
+    "hltv": "^2.8.1",
+    "node-schedule-tz": "^1.2.1-4",
+    "random-puppy": "^1.1.0",
+    "sequelize": "^4.39.0",
+    "simple-youtube-api": "^5.1.1",
+    "sqlite3": "^4.0.2",
+    "weather-js": "^2.0.0",
+    "youtube-dl": "^1.12.2",
+    "ytdl-core": "^0.28.0"
+  }
+}
